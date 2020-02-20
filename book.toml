@@ -1,0 +1,6 @@
+[book]
+authors = ["Kenneth Larsen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Source Code Notes"
